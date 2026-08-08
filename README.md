@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0503-next-greater-element-ii](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,4 +64,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0169-majority-element/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0503-next-greater-element-ii](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0503-next-greater-element-ii/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0503-next-greater-element-ii](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0503-next-greater-element-ii/) | Medium |
 <!---LeetCode Topics End-->
