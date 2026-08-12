@@ -77,4 +77,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0503-next-greater-element-ii](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0503-next-greater-element-ii/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0182-duplicate-emails](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0182-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
