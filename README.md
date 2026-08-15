@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
