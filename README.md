@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0009-palindrome-number/) | Easy |
+| [0069-sqrtx](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0069-sqrtx/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Bit Manipulation
@@ -94,4 +96,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
