@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0013-roman-to-integer/) | Easy |
 | [0069-sqrtx](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0069-sqrtx/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0217-contains-duplicate/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -91,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0013-roman-to-integer/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
