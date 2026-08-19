@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0176-second-highest-salary](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0176-second-highest-salary/) | Medium |
 | [0182-duplicate-emails](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0183-customers-who-never-order/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0196-delete-duplicate-emails/) | Easy |
