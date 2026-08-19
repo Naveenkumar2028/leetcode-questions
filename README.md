@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0183-customers-who-never-order](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0183-customers-who-never-order/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0511-game-play-analysis-i/) | Easy |
+| [1068-product-sales-analysis-i](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/1068-product-sales-analysis-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
