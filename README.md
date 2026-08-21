@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0027-remove-element/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0344-reverse-string](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0344-reverse-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0013-roman-to-integer/) | Easy |
+| [0344-reverse-string](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0344-reverse-string/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
