@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0008-string-to-integer-atoi](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0013-roman-to-integer/) | Easy |
 | [0344-reverse-string](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0344-reverse-string/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
