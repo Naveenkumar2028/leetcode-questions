@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0027-remove-element/) | Easy |
 | [0053-maximum-subarray](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0344-reverse-string](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0344-reverse-string/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Sliding Window
@@ -118,4 +120,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0002-add-two-numbers/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
