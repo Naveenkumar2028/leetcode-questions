@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -134,4 +135,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0014-longest-common-prefix/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
