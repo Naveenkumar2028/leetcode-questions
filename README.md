@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0176-second-highest-salary/) | Medium |
+| [0181-employees-earning-more-than-their-managers](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0183-customers-who-never-order/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0196-delete-duplicate-emails/) | Easy |
