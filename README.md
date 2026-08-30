@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0013-roman-to-integer/) | Easy |
 | [0069-sqrtx](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0268-missing-number/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
