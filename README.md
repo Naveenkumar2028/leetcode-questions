@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0268-missing-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Divide and Conquer
