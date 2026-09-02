@@ -150,4 +150,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0020-valid-parentheses/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0110-balanced-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0110-balanced-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0110-balanced-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
