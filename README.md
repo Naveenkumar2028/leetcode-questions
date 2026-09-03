@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0027-remove-element/) | Easy |
 | [0053-maximum-subarray](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0053-maximum-subarray/) | Medium |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0217-contains-duplicate/) | Easy |
