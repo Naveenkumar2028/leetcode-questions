@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0169-majority-element/) | Easy |
+| [0200-number-of-islands](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0200-number-of-islands](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0200-number-of-islands/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,4 +178,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0200-number-of-islands/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0200-number-of-islands/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
