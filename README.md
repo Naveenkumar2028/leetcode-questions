@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0027-remove-element/) | Easy |
+| [0036-valid-sudoku](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0036-valid-sudoku/) | Medium |
 | [0053-maximum-subarray](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0013-roman-to-integer/) | Easy |
+| [0036-valid-sudoku](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0036-valid-sudoku/) | Medium |
 | [0169-majority-element](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0242-valid-anagram/) | Easy |
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0036-valid-sudoku/) | Medium |
 | [0200-number-of-islands](https://github.com/mnaveenkumar200608-glitch/leetcode-questions/tree/main/0200-number-of-islands/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
